@@ -1,7 +1,7 @@
 #Clase 5 Utilizando Create React App 
 renderizar un listado de mascotas , definiendo y utilizando componentes funcionales creados en JSX y separando componentes padres e hijos en diferentes archivos para organizarlos jerárquicamente. 
 
-Clase 6 Componente de clase y Layout
+#Clase 6 Componente de clase y Layout
 Organizar la estructura del proyecto en distintas carpetas, agregar dos componentes uno funcional y otro de clase, es decir dos archivos .jsx para renderizar una lista de invitados y lo que deben traer. Incorporar un componente Layout(header y footer) el cual recibe como parámetro la palabra children para reutilizarlo en todos los componentes que lo requieran(en este ejemplo sería el componente funcional de la clase 5).    
 
 
